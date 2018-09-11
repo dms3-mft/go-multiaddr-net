@@ -3,7 +3,7 @@ package manet
 import (
 	"bytes"
 
-	ma "github.com/multiformats/go-multiaddr"
+	ma "github.com/dms3-mft/go-multiaddr"
 )
 
 // Loopback Addresses

@@ -10,7 +10,7 @@ import (
 	"fmt"
 	"net"
 
-	ma "github.com/multiformats/go-multiaddr"
+	ma "github.com/dms3-mft/go-multiaddr"
 )
 
 // Conn is the equivalent of a net.Conn object. It is the

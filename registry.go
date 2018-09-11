@@ -5,7 +5,7 @@ import (
 	"net"
 	"sync"
 
-	ma "github.com/multiformats/go-multiaddr"
+	ma "github.com/dms3-mft/go-multiaddr"
 )
 
 // FromNetAddrFunc is a generic function which converts a net.Addr to Multiaddress
